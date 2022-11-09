@@ -1,5 +1,5 @@
 I'm Janik Dohrmann.
-Currently I'm studying computer science at the TH Lübeck in Germany.
+Currently I'm studying computer science at the University for Applied Sciences Hamburg.
 
 <!---
 JanikDohrmann/JanikDohrmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
